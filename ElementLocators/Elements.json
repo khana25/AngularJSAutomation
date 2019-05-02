@@ -1,0 +1,16 @@
+{
+  "login":
+  {
+    "login_username":"email" ,
+    "login_password": "password",
+    "login_keep_signin": "Field" ,
+    "login_signin": "Sign In" ,
+    "login_register": "have an account?"
+  },
+
+  "Logout":
+  {
+    "welcome_link": "//a[contains(text() , ' Welcome Asik!')]",
+    "logout_link": "//a[contains(text() , 'Logout')]"
+  }
+}

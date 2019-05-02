@@ -1,0 +1,31 @@
+{
+  "name": "testing world",
+  "profile": "automation",
+  "tools": ["Selenium", "Protractor", "Jmeter", "SoapUI"],
+  "address":
+  {
+    "addressLine1": "TestAddressLine1",
+    "addressLine2": "TestAddressLine2",
+    "city": "City1"
+  },
+  "demo":
+          [ {
+              "addressLine1":"Demo1",
+              "addressLine2": "Demo11"
+          },
+
+            {
+              "addressLine1":"Demo2",
+              "addressLine2": "Demo22"
+            }
+
+          ],
+  "test":
+  {
+    "homeAddress":
+    {
+      "address1": "House no. 1",
+      "address2": "Street Name: 123"
+    }
+  }
+}
